@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on https://workmarket.eu
 - 📫 How to reach me: https://ishemgulov.com
 - 🐶 Side project: https://czechstats.eu/
 <!-- - 🌱 I’m currently learning ... 
