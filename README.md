@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: https://ishemgulov.com
 - 🐶 Side project: https://czechstats.eu/
+
+[![An image of @rutrader's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rutrader)](https://holopin.io/@rutrader)
+
 <!-- - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
