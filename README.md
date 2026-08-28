@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="./assets/readme/hero.svg" width="100%" alt="Ruslan Ishemgulov — Software engineer in Prague. Builds small products with real users and turns market noise into models.">
 </p>
+-->
 
 ```
  ______________________________________________
@@ -15,13 +17,24 @@
        |,4-  ) )-,_..;\ (  `'-'
       '---''(_/--'  `-'\_)
 
-      wait... that's a cat. here's the dog:
+      ^ deployed to prod on Friday.
+        here's the dev who approved it:
 
          __
      ___( o)>
      \ <_. )
       `---'
 ```
+
+### What I build
+
+| Project | What it does |
+| --- | --- |
+| [ishemgulov.com](https://ishemgulov.com) | Personal site — writing about markets, AI, and shipping things |
+| [czechstats.eu](https://czechstats.eu) | Czech economic data dashboard |
+| [piecework](https://github.com/rutrader/piecework) | Monorepo invariant checker — where free parsers stop and LLMs start |
+| [pigment-wall](https://github.com/rutrader/pigment-wall) | A day is a picture. It colours in as you burn tokens. macOS menu-bar app |
+| [the-vending-machine](https://github.com/rutrader/the-vending-machine) | What can one hour of work buy? 62 years of FRED data, one question |
 
 ### Stack
 
