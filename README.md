@@ -8,21 +8,19 @@
 | nobody asked for, mass-consume coffee, and   |
 \ mass-pretend my code works on first try."    /
  ----------------------------------------------
-    \     _
-     \   / \______
-      \  |        \---_
-         |  |   0   0  |
-         |   \_    o   /
-          \    \_   __/
-           |     |||
-          /      |||--__
-         /       ||     \_
-        |        ||       \
-        |         |\       |
-         \        | \      |
-          |       |  |     |
-          |       |  |     |
-           \_____/    \___/
+    \
+     \
+        |\      _,,,---,,_
+        /,`.-'`'    -.  ;-;;,_
+       |,4-  ) )-,_..;\ (  `'-'
+      '---''(_/--'  `-'\_)
+
+      wait... that's a cat. here's the dog:
+
+         __
+     ___( o)>
+     \ <_. )
+      `---'
 ```
 
 ### Stack
@@ -32,6 +30,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white)
