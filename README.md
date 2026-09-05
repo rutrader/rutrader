@@ -35,6 +35,7 @@
 | [piecework](https://github.com/rutrader/piecework) | Monorepo invariant checker — where free parsers stop and LLMs start |
 | [pigment-wall](https://github.com/rutrader/pigment-wall) | A day is a picture. It colours in as you burn tokens. macOS menu-bar app |
 | [the-vending-machine](https://github.com/rutrader/the-vending-machine) | What can one hour of work buy? 62 years of FRED data, one question |
+| [blind](https://github.com/rutrader/blind) | How many blocks in a `CLAUDE.md` or `AGENTS.md` are indistinguishable from noise when deleted?|
 
 ### Stack
 
