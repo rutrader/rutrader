@@ -14,8 +14,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-duck-dark-adj.png">
-  <img src="assets/hero-duck-white-adj.png" alt="A small duck measuring a block with a ruler and calipers" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/hero-duck-dark-adj.png">
+  <img src="assets/readme/hero-duck-white-adj.png" alt="A small duck measuring a block with a ruler and calipers" width="100%">
 </picture>
 
 # Ruslan Ishemgulov
